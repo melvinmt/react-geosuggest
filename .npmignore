@@ -1,6 +1,6 @@
-dist
-example
-src
+#dist
+#example
+#src
 .editorconfig
 .gitignore
 .travis.yml
